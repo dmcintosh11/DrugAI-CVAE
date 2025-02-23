@@ -45,10 +45,3 @@ DrugAI utilizes an Autoregressive Conditional Variational Autoencoder (CVAE), in
 - **Decoder:** Predicts the next token autoregressively, conditioned on the protein spike and previously generated tokens.  
 
 This approach allows for target-specific drug generation and offers an alternative methodology to the techniques explored in Ang, Atamian, and Rakovski’s research.  
-
----
-
-## Acknowledgments  
-- Dony Ang, Hagop Atamian, and Cyril Rakovski for their foundational research.  
-- Joseph Ellis and Chelsea Parlett for their collaboration and insights.  
-- BindingDB for the dataset.  
